@@ -57,6 +57,16 @@ The following are some suggestions to set the background style of the navigation
 
 ## Installation
 
+### SPM
+```
+dependencies: [
+    .package(
+        url: "https://github.com/audrl1010/KMNavigationBarTransition",
+        .branch("master")
+    ),
+],
+```
+
 ### CocoaPods
 
 You can install the latest release version of CocoaPods with the following command:
